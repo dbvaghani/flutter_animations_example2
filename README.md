@@ -1,5 +1,8 @@
 # flutter_animations_example2
 
+![ezgif-2-6d41d0403b](https://user-images.githubusercontent.com/8428007/218371011-426f6b03-f0df-4db2-ab0d-2080511da7b7.gif)
+
+
 A new Flutter project.
 
 ## Getting Started
